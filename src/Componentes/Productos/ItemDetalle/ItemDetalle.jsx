@@ -37,11 +37,11 @@ export default function ItemDetalle() {
 
       <div className={`card ${styles.card}`}>
 
-        <img
-          src={producto.imagen}
-          className={`card-img-top ${styles.cardImg}`}
-          alt={producto.nombre}
-        />
+       <img
+        src={`/${producto.imagen}`}
+        className={`card-img-top ${styles.cardImg}`}
+        alt={producto.nombre}
+      />
 
         <div className="card-body">
 
