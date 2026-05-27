@@ -11,7 +11,7 @@ export default function ItemListContainer({ mensaje }) {
 
     useEffect(() => {
 
-        fetch('/Data/Productos.json')
+        fetch('/data/Productos.json')
 
             .then((respuesta) => {
 

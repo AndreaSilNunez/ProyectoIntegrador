@@ -7,7 +7,7 @@ export default function Productos({ Mensaje }) {
     const [cargando, setCargando] = useState(true);
 
     useEffect(() => {
-        fetch('../Public/data/Productos.json')
+         fetch('/data/Productos.json')
             .then((respuesta) => {
                 if (!respuesta.ok) {
                     throw new Error('No se pudo cargar la información de los productos');
