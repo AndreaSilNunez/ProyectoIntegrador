@@ -2,7 +2,7 @@ import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
 import styles from "./item.module.css";
 
-export const ItemDetalle = () => {
+export default function ItemDetalle() {
 
   const { id } = useParams();
 
