@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import ItemList from "../ItemList/Itemlist";
+import ItemList from "../ItemList/ItemList";
 
 import { Link } from "react-router-dom";
 
