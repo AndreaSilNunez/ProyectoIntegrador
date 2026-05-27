@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Ana López",
+    "email": "ana@mail.com",
+    "puesto": "CEO",
+    "foto": "../Public/data/images/Mujer.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Pérez",
+    "email": "juan@mail.com",
+    "puesto": "CTO",
+    "foto": "../Public/data/images/Hombre.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Lucía Gómez",
+    "email": "lucia@mail.com",
+    "puesto": "UX Designer",
+    "foto": "../Public/data/images/Mujer.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Carlos Ruiz",
+    "email": "carlos@mail.com",
+    "puesto": "Frontend Dev",
+    "foto": "../Public/data/images/Hombre.png"
+  }
+]

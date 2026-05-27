@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook Gamer Acer Nitro 5",
+    "descripcion": "La Acer Nitro 5 es una notebook gamer diseñada para usuarios exigentes que necesitan potencia, velocidad y capacidad multitarea. Equipada con un procesador Intel Core i7 de última generación y una placa gráfica NVIDIA RTX dedicada, ofrece un excelente desempeño en videojuegos modernos, edición de video, modelado 3D y tareas de productividad intensiva. Su pantalla Full HD de 15.6 pulgadas con alta tasa de refresco brinda imágenes fluidas y colores vibrantes ideales para gaming competitivo y consumo multimedia. El sistema de refrigeración avanzado mantiene temperaturas estables incluso durante sesiones prolongadas de uso intensivo. Además, incorpora almacenamiento SSD NVMe de alta velocidad que reduce considerablemente los tiempos de carga del sistema operativo y aplicaciones. El teclado retroiluminado RGB mejora la experiencia de uso en ambientes oscuros y aporta una estética moderna. Incluye múltiples puertos USB, HDMI y conectividad WiFi de alta velocidad. La calidad de construcción combina materiales resistentes con un diseño elegante y agresivo orientado al público gamer. También posee sonido envolvente optimizado y cámara HD integrada para videollamadas y streaming.",
+    "precio": 1899,
+    "stock": 12,
+    "imagen": "",
+    "destacado": true
+  },
+  {
+    "id": 2,
+    "nombre": "Mouse Gamer Logitech G Pro",
+    "descripcion": "El Logitech G Pro es un mouse gamer profesional desarrollado para esports y usuarios que requieren máxima precisión. Su sensor óptico de alta resolución permite movimientos extremadamente precisos y respuesta instantánea. El diseño ultraliviano reduce la fatiga durante largas sesiones de juego competitivo. Dispone de switches mecánicos de alta durabilidad preparados para millones de clics y botones configurables mediante software dedicado. La iluminación RGB personalizable permite sincronizar efectos visuales con otros periféricos compatibles. El cable reforzado ofrece gran resistencia y movilidad fluida. Gracias a su ergonomía optimizada, se adapta cómodamente a distintos estilos de agarre. Compatible con múltiples plataformas y sistemas operativos, este mouse es utilizado tanto por gamers profesionales como por diseñadores y usuarios avanzados que buscan precisión y confiabilidad.",
+    "precio": 129,
+    "stock": 34,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 3,
+    "nombre": "Teclado Mecánico Redragon Kumara",
+    "descripcion": "El teclado mecánico Redragon Kumara ofrece una experiencia de escritura y gaming excepcional gracias a sus switches mecánicos de alta calidad. Su estructura compacta y resistente optimiza el espacio del escritorio sin sacrificar funcionalidad. Incluye retroiluminación LED configurable y tecnología anti-ghosting para registrar múltiples teclas simultáneamente con precisión. El diseño ergonómico mejora la comodidad durante largas jornadas de trabajo o juego. Sus teclas de respuesta táctil rápida brindan una sensación profesional ideal para gamers competitivos, programadores y escritores. El cable USB reforzado garantiza durabilidad y estabilidad en la conexión. Compatible con Windows y otros sistemas operativos, este teclado combina excelente calidad de construcción con rendimiento confiable y estética moderna.",
+    "precio": 95,
+    "stock": 27,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 4,
+    "nombre": "Monitor Curvo Samsung Odyssey G5",
+    "descripcion": "El Samsung Odyssey G5 es un monitor curvo de alto rendimiento pensado para gaming y productividad profesional. Su panel de alta resolución ofrece imágenes detalladas y excelente reproducción de color. La curvatura inmersiva mejora la experiencia visual y reduce la fatiga ocular durante largas sesiones de uso. Gracias a su elevada tasa de refresco y tiempo de respuesta reducido, proporciona movimientos fluidos ideales para videojuegos rápidos y contenido multimedia dinámico. El diseño elegante con marcos delgados aporta una apariencia moderna y profesional. También incorpora tecnologías de sincronización adaptativa para evitar cortes de imagen y mejorar la fluidez general. Compatible con múltiples conexiones HDMI y DisplayPort, este monitor resulta ideal tanto para gamers como para diseñadores y usuarios multitarea.",
+    "precio": 499,
+    "stock": 19,
+    "imagen": "",
+    "destacado": true
+  },
+  {
+    "id": 5,
+    "nombre": "Disco SSD Samsung 980 Pro 1TB",
+    "descripcion": "El Samsung 980 Pro 1TB es un disco SSD NVMe de alto rendimiento diseñado para acelerar significativamente el funcionamiento de computadoras modernas. Sus velocidades de lectura y escritura ultrarrápidas permiten iniciar sistemas operativos y cargar aplicaciones en pocos segundos. Ideal para gaming, edición multimedia y tareas intensivas, este SSD mejora notablemente la experiencia general del usuario. Su tecnología avanzada de memoria NAND garantiza estabilidad, eficiencia energética y larga vida útil. Además, incorpora sistemas inteligentes de control térmico para mantener el rendimiento bajo cargas elevadas. Compatible con notebooks y PCs modernas, representa una excelente actualización para equipos que necesitan mayor velocidad y capacidad de almacenamiento.",
+    "precio": 210,
+    "stock": 41,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 6,
+    "nombre": "Placa de Video NVIDIA RTX 4080",
+    "descripcion": "La NVIDIA RTX 4080 es una placa de video de gama alta diseñada para gaming extremo y creación de contenido profesional. Gracias a su arquitectura avanzada y memoria gráfica de alta velocidad, permite ejecutar videojuegos modernos en resoluciones elevadas con trazado de rayos y altas tasas de cuadros por segundo. También acelera tareas de renderizado 3D, inteligencia artificial y edición de video profesional. El sistema de refrigeración optimizado mantiene temperaturas controladas incluso durante cargas intensivas. Incluye múltiples salidas de video para configuraciones multimonitor y compatibilidad con tecnologías modernas de sincronización y aceleración gráfica. Esta GPU está orientada a usuarios entusiastas que buscan máximo rendimiento y calidad visual.",
+    "precio": 2299,
+    "stock": 8,
+    "imagen": "",
+    "destacado": true
+  },
+  {
+    "id": 7,
+    "nombre": "Auriculares HyperX Cloud II",
+    "descripcion": "Los HyperX Cloud II ofrecen sonido envolvente de alta calidad y gran comodidad para gaming y multimedia. Sus drivers de gran tamaño generan audio claro y graves profundos que mejoran la inmersión en videojuegos y películas. Las almohadillas acolchadas y estructura ajustable brindan confort incluso durante jornadas prolongadas. El micrófono desmontable con cancelación de ruido garantiza comunicaciones claras en partidas online y videollamadas. Compatible con PC, consolas y dispositivos móviles, este headset combina durabilidad, excelente calidad sonora y diseño moderno.",
+    "precio": 119,
+    "stock": 38,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 8,
+    "nombre": "Router ASUS ROG AX6000",
+    "descripcion": "El ASUS ROG AX6000 es un router WiFi de alta velocidad diseñado para gaming online y conexiones simultáneas exigentes. Compatible con WiFi 6, ofrece menor latencia, mejor estabilidad y cobertura optimizada para hogares y oficinas modernas. Sus múltiples antenas de alto rendimiento garantizan señal estable incluso en espacios amplios. Incluye puertos Ethernet de alta velocidad y herramientas avanzadas de seguridad y administración de red. Gracias a la priorización inteligente de tráfico, optimiza automáticamente juegos online, streaming y videollamadas.",
+    "precio": 379,
+    "stock": 15,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 9,
+    "nombre": "Webcam Logitech StreamCam",
+    "descripcion": "La Logitech StreamCam está diseñada para streaming, videollamadas y creación de contenido profesional. Captura video en alta definición con excelente nitidez y fluidez. Su enfoque automático inteligente mantiene la imagen clara en todo momento. Incluye micrófonos integrados optimizados para captación de voz y conectividad USB-C moderna. Compatible con múltiples plataformas de videoconferencia y streaming, resulta ideal para creadores de contenido y trabajo remoto.",
+    "precio": 159,
+    "stock": 21,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 10,
+    "nombre": "Tablet Apple iPad Air",
+    "descripcion": "El iPad Air combina portabilidad, rendimiento y excelente calidad de pantalla en un dispositivo moderno y versátil. Su procesador de alto rendimiento permite ejecutar aplicaciones profesionales, edición multimedia y multitarea fluida. La pantalla Liquid Retina ofrece colores precisos y gran nivel de detalle. Compatible con lápiz digital y teclados externos, puede utilizarse para estudio, trabajo y entretenimiento. Su diseño delgado y batería de larga duración mejoran la experiencia móvil diaria.",
+    "precio": 899,
+    "stock": 16,
+    "imagen": "",
+    "destacado": true
+  },
+  {
+    "id": 11,
+    "nombre": "Gabinete NZXT H510",
+    "descripcion": "El gabinete NZXT H510 ofrece un diseño minimalista y excelente flujo de aire para configuraciones gaming y profesionales. Compatible con refrigeración líquida y componentes de gran tamaño, facilita el armado y administración de cables. Su panel lateral de vidrio templado permite exhibir el hardware interno y la iluminación RGB. Incluye puertos frontales modernos y filtros antipolvo removibles para mantenimiento sencillo.",
+    "precio": 145,
+    "stock": 23,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 12,
+    "nombre": "Procesador Intel Core i9 14900K",
+    "descripcion": "El Intel Core i9 14900K es un procesador de alto rendimiento orientado a gaming extremo y productividad profesional. Gracias a su arquitectura híbrida y múltiples núcleos, ofrece excelente desempeño en videojuegos, edición de video y multitarea avanzada. Compatible con memorias DDR5 y tecnologías modernas de conectividad, brinda gran velocidad y estabilidad para sistemas de última generación.",
+    "precio": 799,
+    "stock": 11,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 13,
+    "nombre": "Memoria RAM Corsair Vengeance 32GB",
+    "descripcion": "La memoria RAM Corsair Vengeance 32GB proporciona alto rendimiento y estabilidad para computadoras modernas. Su elevada frecuencia mejora la multitarea, gaming y aplicaciones profesionales exigentes. El disipador térmico integrado ayuda a mantener temperaturas adecuadas incluso bajo cargas intensivas. Compatible con plataformas Intel y AMD actuales, ofrece excelente confiabilidad y rendimiento sostenido.",
+    "precio": 189,
+    "stock": 30,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 14,
+    "nombre": "Smartphone Samsung Galaxy S25",
+    "descripcion": "El Samsung Galaxy S25 ofrece tecnología de última generación en un smartphone elegante y potente. Su pantalla AMOLED de alta resolución brinda colores vibrantes y fluidez excepcional. El procesador avanzado garantiza rendimiento rápido y eficiente para multitarea y gaming móvil. Sus cámaras con inteligencia artificial permiten capturar fotografías y videos de calidad profesional en distintas condiciones de iluminación.",
+    "precio": 1299,
+    "stock": 20,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 15,
+    "nombre": "Dock USB-C Anker PowerExpand",
+    "descripcion": "El Anker PowerExpand es un dock USB-C multifunción que amplía significativamente la conectividad de notebooks y tablets modernas. Incluye puertos USB, HDMI, Ethernet y lector de tarjetas para crear estaciones de trabajo completas utilizando una sola conexión. Su diseño compacto y resistente facilita el transporte y uso diario.",
+    "precio": 99,
+    "stock": 29,
+    "imagen": "",
+    "destacado": true
+  },
+  {
+    "id": 16,
+    "nombre": "UPS APC Back-UPS 1500VA",
+    "descripcion": "La APC Back-UPS 1500VA protege computadoras y dispositivos electrónicos frente a cortes eléctricos y variaciones de tensión. Su batería interna proporciona energía de respaldo suficiente para guardar información y apagar sistemas correctamente. Incluye estabilizador automático y múltiples tomas protegidas para garantizar seguridad y continuidad operativa.",
+    "precio": 329,
+    "stock": 14,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 17,
+    "nombre": "Microfono Blue Yeti",
+    "descripcion": "El Blue Yeti es un micrófono USB profesional ideal para streaming, podcasts y grabación de contenido multimedia. Su calidad de captación de audio ofrece voces claras y detalladas. Incluye múltiples patrones polares para distintas configuraciones de grabación y controles físicos integrados para monitoreo y volumen.",
+    "precio": 179,
+    "stock": 17,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 18,
+    "nombre": "Smartwatch Apple Watch Series 10",
+    "descripcion": "El Apple Watch Series 10 combina monitoreo de salud, conectividad inteligente y diseño premium en un reloj moderno y funcional. Incluye sensores avanzados para actividad física, ritmo cardíaco y sueño. Compatible con aplicaciones móviles y notificaciones inteligentes, ofrece excelente integración con el ecosistema Apple.",
+    "precio": 599,
+    "stock": 25,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 19,
+    "nombre": "Servidor NAS Synology 8TB",
+    "descripcion": "El servidor NAS Synology 8TB permite almacenamiento centralizado, copias de seguridad automáticas y acceso remoto seguro a archivos. Compatible con configuraciones RAID y aplicaciones empresariales, brinda gran estabilidad y protección de datos. Ideal para hogares, oficinas y entornos colaborativos.",
+    "precio": 949,
+    "stock": 9,
+    "imagen": "",
+    "destacado": false
+  },
+  {
+    "id": 20,
+    "nombre": "Silla Gamer Secretlab Titan",
+    "descripcion": "La Secretlab Titan es una silla gamer premium diseñada para brindar máxima comodidad y ergonomía durante largas jornadas frente a la computadora. Su estructura reforzada y materiales de alta calidad ofrecen excelente soporte lumbar y durabilidad. Incluye apoyabrazos ajustables, reclinación avanzada y almohadas ergonómicas para mejorar la postura y reducir la fatiga.",
+    "precio": 649,
+    "stock": 13,
+    "imagen": "",
+    "destacado": false
+  }
+]
