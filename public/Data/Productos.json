@@ -5,7 +5,7 @@
     "descripcion": "El teclado mecánico Redragon Kumara ofrece una experiencia de escritura y gaming excepcional gracias a sus switches mecánicos de alta calidad. Su estructura compacta y resistente optimiza el espacio del escritorio sin sacrificar funcionalidad. Incluye retroiluminación LED configurable y tecnología anti-ghosting para registrar múltiples teclas simultáneamente con precisión. El diseño ergonómico mejora la comodidad durante largas jornadas de trabajo o juego. Sus teclas de respuesta táctil rápida brindan una sensación profesional ideal para gamers competitivos, programadores y escritores. El cable USB reforzado garantiza durabilidad y estabilidad en la conexión. Compatible con Windows y otros sistemas operativos, este teclado combina excelente calidad de construcción con rendimiento confiable y estética moderna.",
     "precio": 95,
     "stock": 27,
-    "imagen": "Data/images/Producto_1.jpg",
+    "imagen": "data/images/Producto_1.jpg",
     "destacado": false
   },
   {
@@ -14,7 +14,7 @@
     "descripcion": "El Samsung Odyssey G5 es un monitor curvo de alto rendimiento pensado para gaming y productividad profesional. Su panel de alta resolución ofrece imágenes detalladas y excelente reproducción de color. La curvatura inmersiva mejora la experiencia visual y reduce la fatiga ocular durante largas sesiones de uso. Gracias a su elevada tasa de refresco y tiempo de respuesta reducido, proporciona movimientos fluidos ideales para videojuegos rápidos y contenido multimedia dinámico. El diseño elegante con marcos delgados aporta una apariencia moderna y profesional. También incorpora tecnologías de sincronización adaptativa para evitar cortes de imagen y mejorar la fluidez general. Compatible con múltiples conexiones HDMI y DisplayPort, este monitor resulta ideal tanto para gamers como para diseñadores y usuarios multitarea.",
     "precio": 499,
     "stock": 19,
-    "imagen": "Data/images/Producto_2.jpg",
+    "imagen": "data/images/Producto_2.jpg",
     "destacado": true
   },
   {
@@ -23,7 +23,7 @@
     "descripcion": "El Samsung 980 Pro 1TB es un disco SSD NVMe de alto rendimiento diseñado para acelerar significativamente el funcionamiento de computadoras modernas. Sus velocidades de lectura y escritura ultrarrápidas permiten iniciar sistemas operativos y cargar aplicaciones en pocos segundos. Ideal para gaming, edición multimedia y tareas intensivas, este SSD mejora notablemente la experiencia general del usuario. Su tecnología avanzada de memoria NAND garantiza estabilidad, eficiencia energética y larga vida útil. Además, incorpora sistemas inteligentes de control térmico para mantener el rendimiento bajo cargas elevadas. Compatible con notebooks y PCs modernas, representa una excelente actualización para equipos que necesitan mayor velocidad y capacidad de almacenamiento.",
     "precio": 210,
     "stock": 41,
-    "imagen": "Data/images/Producto_3.jpg",
+    "imagen": "data/images/Producto_3.jpg",
     "destacado": false
   },
   {
@@ -32,7 +32,7 @@
     "descripcion": "La NVIDIA RTX 4080 es una placa de video de gama alta diseñada para gaming extremo y creación de contenido profesional. Gracias a su arquitectura avanzada y memoria gráfica de alta velocidad, permite ejecutar videojuegos modernos en resoluciones elevadas con trazado de rayos y altas tasas de cuadros por segundo. También acelera tareas de renderizado 3D, inteligencia artificial y edición de video profesional. El sistema de refrigeración optimizado mantiene temperaturas controladas incluso durante cargas intensivas. Incluye múltiples salidas de video para configuraciones multimonitor y compatibilidad con tecnologías modernas de sincronización y aceleración gráfica. Esta GPU está orientada a usuarios entusiastas que buscan máximo rendimiento y calidad visual.",
     "precio": 2299,
     "stock": 8,
-    "imagen": "Data/images/Producto_4.jpg",
+    "imagen": "data/images/Producto_4.jpg",
     "destacado": true
   },
   {
@@ -41,7 +41,7 @@
     "descripcion": "Los HyperX Cloud II ofrecen sonido envolvente de alta calidad y gran comodidad para gaming y multimedia. Sus drivers de gran tamaño generan audio claro y graves profundos que mejoran la inmersión en videojuegos y películas. Las almohadillas acolchadas y estructura ajustable brindan confort incluso durante jornadas prolongadas. El micrófono desmontable con cancelación de ruido garantiza comunicaciones claras en partidas online y videollamadas. Compatible con PC, consolas y dispositivos móviles, este headset combina durabilidad, excelente calidad sonora y diseño moderno.",
     "precio": 119,
     "stock": 38,
-    "imagen": "Data/images/Producto_5.jpg",
+    "imagen": "data/images/Producto_5.jpg",
     "destacado": false
   },
   {
@@ -50,7 +50,7 @@
     "descripcion": "El ASUS ROG AX6000 es un router WiFi de alta velocidad diseñado para gaming online y conexiones simultáneas exigentes. Compatible con WiFi 6, ofrece menor latencia, mejor estabilidad y cobertura optimizada para hogares y oficinas modernas. Sus múltiples antenas de alto rendimiento garantizan señal estable incluso en espacios amplios. Incluye puertos Ethernet de alta velocidad y herramientas avanzadas de seguridad y administración de red. Gracias a la priorización inteligente de tráfico, optimiza automáticamente juegos online, streaming y videollamadas.",
     "precio": 379,
     "stock": 15,
-    "imagen": "Data/images/Producto_6.jpg",
+    "imagen": "data/images/Producto_6.jpg",
     "destacado": false
   },
   {
@@ -59,7 +59,7 @@
     "descripcion": "La Logitech StreamCam está diseñada para streaming, videollamadas y creación de contenido profesional. Captura video en alta definición con excelente nitidez y fluidez. Su enfoque automático inteligente mantiene la imagen clara en todo momento. Incluye micrófonos integrados optimizados para captación de voz y conectividad USB-C moderna. Compatible con múltiples plataformas de videoconferencia y streaming, resulta ideal para creadores de contenido y trabajo remoto.",
     "precio": 159,
     "stock": 21,
-    "imagen": "Data/images/Producto_7.jpg",
+    "imagen": "data/images/Producto_7.jpg",
     "destacado": false
   },
   {
@@ -68,7 +68,7 @@
     "descripcion": "El iPad Air combina portabilidad, rendimiento y excelente calidad de pantalla en un dispositivo moderno y versátil. Su procesador de alto rendimiento permite ejecutar aplicaciones profesionales, edición multimedia y multitarea fluida. La pantalla Liquid Retina ofrece colores precisos y gran nivel de detalle. Compatible con lápiz digital y teclados externos, puede utilizarse para estudio, trabajo y entretenimiento. Su diseño delgado y batería de larga duración mejoran la experiencia móvil diaria.",
     "precio": 899,
     "stock": 16,
-    "imagen": "Data/images/Producto_8.jpg",
+    "imagen": "data/images/Producto_8.jpg",
     "destacado": true
   },
   {
@@ -77,7 +77,7 @@
     "descripcion": "El gabinete NZXT H510 ofrece un diseño minimalista y excelente flujo de aire para configuraciones gaming y profesionales. Compatible con refrigeración líquida y componentes de gran tamaño, facilita el armado y administración de cables. Su panel lateral de vidrio templado permite exhibir el hardware interno y la iluminación RGB. Incluye puertos frontales modernos y filtros antipolvo removibles para mantenimiento sencillo.",
     "precio": 145,
     "stock": 23,
-    "imagen": "Data/images/Producto_9.jpg",
+    "imagen": "data/images/Producto_9.jpg",
     "destacado": false
   },
   {
@@ -86,7 +86,7 @@
     "descripcion": "El Intel Core i9 14900K es un procesador de alto rendimiento orientado a gaming extremo y productividad profesional. Gracias a su arquitectura híbrida y múltiples núcleos, ofrece excelente desempeño en videojuegos, edición de video y multitarea avanzada. Compatible con memorias DDR5 y tecnologías modernas de conectividad, brinda gran velocidad y estabilidad para sistemas de última generación.",
     "precio": 799,
     "stock": 11,
-    "imagen": "Data/images/Producto_10.jpg",
+    "imagen": "data/images/Producto_10.jpg",
     "destacado": false
   }
 ]
